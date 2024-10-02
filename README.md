@@ -13,17 +13,6 @@ The **Adaptive Personalized Learning Platform** is designed to enhance learning 
 - **Emotion Recognition**: Utilizes emotion recognition to gauge user engagement and adapt learning materials accordingly.
 - **Performance Prediction**: Employs machine learning models to predict user performance and tailor the learning experience.
 
-## Project Structure
-
-```plaintext
-Adaptive_Personalized_Learning_Platform/
-│
-├── user_interactions.log         # Log of user interactions and emotional responses
-├── user_interactions.csv         # Sample CSV dataset for user interactions
-├── adaptive_learning_platform.py  # Main code for simulating user interactions
-└── README.md                     # Project documentation
-```
-
 ## Requirements
 
 To run this project, ensure you have the following Python libraries installed:
@@ -39,25 +28,6 @@ You can install the required libraries using pip:
 
 pip install numpy pandas opencv-python deepface scikit-learn
 ```
-```bash
-## Getting Started
-
-### Clone the Repository
-
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/Adaptive_Personalized_Learning_Platform.git
-```
-
-### Navigate to the Project Directory
-
-Change into the project directory:
-
-```bash
-cd Adaptive_Personalized_Learning_Platform
-```
-
 ### Create Sample Data
 
 Create the sample log and CSV files if they are not already present. You can run the following code in a Python environment to create the log files:
