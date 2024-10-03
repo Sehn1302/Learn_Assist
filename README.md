@@ -169,7 +169,7 @@ python adaptive_learning_platform.py
 
 ## License
 
-This project is licensed under the GPL 3.0 License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL 3.0 License. Please take a look at the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -179,13 +179,5 @@ This project is licensed under the GPL 3.0 License. See the [LICENSE](LICENSE) f
 
 ## Contact
 
-For questions or feedback, please reach out to [your.email@example.com](mailto:sehanbalajee@gmail.com).
+For questions or feedback, please reach out to [mailto: sehanbalajee@gmail.com].
 ```
-
-### Customization
-- Replace `link-to-your-logo-image` with an actual link to your project's logo image, or remove this line if you don't have one.
-- Change `yourusername` in the clone URL to your actual GitHub username.
-- Update the email address in the contact section with your actual email address.
-- Adjust any other sections as needed to better reflect your project.
-
-Feel free to ask if you need further adjustments or additional information!
