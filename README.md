@@ -180,4 +180,3 @@ This project is licensed under the GPL 3.0 License. Please take a look at the [L
 ## Contact
 
 For questions or feedback, please reach out to [mailto: sehanbalajee@gmail.com].
-```
